@@ -2,10 +2,6 @@
 
 ---
 
-## How we will accomplish these goals
-bleh
-
-
 ## Applicant information
 1. Application submission date (prevYear: LateAug,Oct,Nov,Dec || thisYear:Jan-MidMar)
 2. --> 20% of applications: Aug–Oct 2022
@@ -45,7 +41,7 @@ ENROLLED  UNDER-REVIEW  LOST
 
 ```
 
-| Phase                         | Approx. Months            | Description                              |
+| Admission Cycle               | Approx. Months            | Description                              |
 |-------------------------------|---------------------------|------------------------------------------|
 | **Application Opening**       | **August–October 2022**   | Applications for Fall 2023 open.         |
 | **Peak Submissions**          | **November–January 2023** | Most students submit around deadlines.   |
