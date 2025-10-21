@@ -5,6 +5,7 @@ Table of Contents
 
 * [Run It Yourself](#run-it-yourself)
 * [What This Program Simulates](#what-this-program-simulates)
+* [What Analysis Can I Do?](#what-analysis-can-i-do)
 
 
 ### Run It Yourself
@@ -81,6 +82,16 @@ distributions</strong> to produce "randomness".
   },
   "num_applications": 4340
 }
+```
+
+### What Analysis Can I Do?
+I compiled a few examples that you can make with this simulation under "Documentation>[Data Analysis Objectives.md](https://github.com/FerminRamos/Admissions-Office-Simulation/blob/main/Documentation/Data%20Analysis%20Objectives.md)"
+
+Here is a snippet of that document:
+```
+* What proportion of applicants choose to enroll after being offered admission?
+* What are the top intakes and programs and what is their impact on the total enrollment?
+* How fast are we able to recruit students?
 ```
 
 ---
