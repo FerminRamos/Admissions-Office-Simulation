@@ -1,0 +1,51 @@
+{
+  "simulation_name": "2015-2016 Admissions Cycle",
+  "application_start": "2014-08-01",
+  "application_end": "2015-03-15",
+  "uni_location": "New Mexico",
+  "application_distribution": {
+    "admitted": 0.64,
+    "rejected": 0.36,
+    "enrolled": 0.65,
+    "lost": 0.30,
+    "withdrawn": 0.02,
+    "under_review": 0.05
+  },
+  "age_distribution": {
+    "<18": 0.10,
+    "18-21": 0.64,
+    "22-25": 0.16,
+    "26-30": 0.07,
+    "30+": 0.03
+  },
+  "nationality_distribution": {
+    "usa": 0.67,
+    "foreign": 0.33
+  },
+  "state_distribution": {
+    "in-state": 0.55,
+    "out-of-state": 0.45
+  },
+  "program_distribution": {
+    "undecided": 0.08,
+    "associates": 0.07,
+    "bachelors": 0.43,
+    "masters": 0.17,
+    "mba": 0.15,
+    "phd": 0.10
+  },
+  "under_scholarship_distribution": {
+    "yes": 0.32,
+    "no": 0.68
+  },
+  "first_gen_distribution": {
+    "yes": 0.41,
+    "no": 0.59
+  },
+  "days_to_apply_distribution": {
+    "min": 3,
+    "median": 48,
+    "max": 160
+  },
+  "num_applications": 4340
+}
